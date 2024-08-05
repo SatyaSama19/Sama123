@@ -8,6 +8,7 @@ public class Sumatural{
         {
             // sum = sum + i;
             sum += i;
+            // this project is done for the testing purpose
         }
 
         System.out.println("Sum = " + sum);
